@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Simple-react-drum-machine/static/css/main.1a8eb958.css",
+    "main.js": "/Simple-react-drum-machine/static/js/main.10093d8b.js",
+    "static/js/787.41a206eb.chunk.js": "/Simple-react-drum-machine/static/js/787.41a206eb.chunk.js",
+    "index.html": "/Simple-react-drum-machine/index.html",
+    "main.1a8eb958.css.map": "/Simple-react-drum-machine/static/css/main.1a8eb958.css.map",
+    "main.10093d8b.js.map": "/Simple-react-drum-machine/static/js/main.10093d8b.js.map",
+    "787.41a206eb.chunk.js.map": "/Simple-react-drum-machine/static/js/787.41a206eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8eb958.css",
+    "static/js/main.10093d8b.js"
+  ]
+}
